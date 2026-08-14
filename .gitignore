@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw project data
+Data/Raw/*.csv
+Data/Raw/*.xlsx
+
+# Temporary/generated files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
